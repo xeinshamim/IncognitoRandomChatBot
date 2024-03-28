@@ -1,0 +1,26 @@
+{
+   "name": "ChatBot",
+   "description": "Incognito Random Chat Bot.",
+   "repository": "https://github.com/xeinshamim/ChatBot",
+   "logo": "https://telegra.ph/file/89f0b6d00effb8ddd70eb.jpg",
+   "env": {
+     "TOKEN": {
+       "description": "Get it on @botfather",
+       "value": ""
+     },
+     "OWNER": {
+       "description": "XeinShamim",
+       "value": "XeinShamim"
+     },
+     "GROUP": {
+       "description": "RandomIncognitoChatGroup",
+       "required": false,
+       "value": "Group"
+     },
+     "CHANNELS": {
+       "description": "RandomIncognitoChatChannel",
+       "required": false,
+       "value": "Channel"
+     }
+   }
+}
